@@ -1,4 +1,3 @@
-[Home](README.md)
 ## Just Like Heaven
 
 <!-- paste the below just before the </head> tag -->
