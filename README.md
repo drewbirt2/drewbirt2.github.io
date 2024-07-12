@@ -1,5 +1,5 @@
 ## 80s Keys
 
-[Hungry Like the Wolf](HungryLikeTheWolf.html)
-[Just Like Heaven](JustLikeHeaven.html)
-[I Ran](IRan.html)
+- [Hungry Like the Wolf](HungryLikeTheWolf.md)
+- [Just Like Heaven](JustLikeHeaven.md)
+- [I Ran](IRan.md)
