@@ -1,6 +1,8 @@
 ## 90s
 - [Closing Time](ClosingTime.md)
 - [Don't Look Back in Anger](DontLookBackInAnger.md)
+- [Fake Plastic Trees](FakePlasticTrees.md)
+- [Jump](Jump.md)
 
 ## 80s Keys
 
